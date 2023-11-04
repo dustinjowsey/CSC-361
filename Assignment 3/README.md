@@ -1,3 +1,5 @@
+# CSC-361 Assignment 3
+
 Part 1
 - To run part 1 run python3 p3.py <tracefile>
 - Part 1 will output to a file called Output.txt
