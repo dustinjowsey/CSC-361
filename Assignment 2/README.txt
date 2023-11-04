@@ -1,3 +1,4 @@
+# CSC-361 Assignment 2
 
 This project takes a pcap/cap file as input and will sort the connections in the file to display details of each connection
 
